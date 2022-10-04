@@ -6,6 +6,7 @@
 int adcValue = 0;
 int LED = 4;
 
+
 typedef struct struct_message{
   float reading;
 } struct_message;
